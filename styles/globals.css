@@ -18,5 +18,18 @@ a {
 }
 
 body {
-  background-color: #88effd;
+  background-color: salmon;
+}
+
+h4 {
+  margin-top: 10px;
+}
+
+button {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 200px;
 }
